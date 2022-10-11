@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Letícia Almeida</h1>
 </div>
 
-<h3 align="left" > ☎️ How to reach me 💬 </h3>
+<h3 align="left" > 📫 How to reach me 💬 </h3>
  <a href="mailto:leticiapaulinoferreira@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Letícia" height="30"/></a>
