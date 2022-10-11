@@ -1,5 +1,5 @@
 <div align="center">
-<h3 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Letícia Almeida</h3>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Letícia Almeida</h1>
 </div>
 
 <h4 align="left" > 📫 How to reach me 💬 </h4>
