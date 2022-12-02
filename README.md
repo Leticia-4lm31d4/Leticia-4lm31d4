@@ -9,7 +9,6 @@
 
 - Student at Universidade Federal de São Carlos - UFSCar
 - <i>Bachelor of Computer Science</i>
-- I speak portuguese and english, looking forward to learn a new one
 
 <!--- FERRAMENTAS E LINGUAGENS --->
 <h2>🦕 ~ languages and tools </h2>
