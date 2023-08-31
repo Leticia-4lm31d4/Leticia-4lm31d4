@@ -1,18 +1,16 @@
 <!-- Apresentação da página -->
-<h2>Hello, I'm Letícia Paulino Ferreira</h2>
-<p align="left">Welcome to my GitHub page :)</p>
+# Hello, I'm Letícia Paulino Ferreira
+Welcome to my GuthHub page 
 
 <!-- Sobre mim / curiosidades -->
-<h3>About Me</h3>
-<ul>
-   <li>Student at Universidade Federal de São Carlos - UFSCar;</li>
-   <li>Bachelor of Computer Science;</li>
-   <li>I'm really into cats, movies and music;</li>
-   <li>From Brazil</li>
-</ul>
+### About Me
+I'm a bachelor student of **Computer Science** at **Universidade Federal de São Carlos - UFSCar**. I'm into UX/UI Design, Databases, .<br>
+ Also, a cat lover , I enjoy a listen to a lot of music and watch movies, but still seeking a hobbie to be entertained by life and the world more!
+ <p align='right'>🐈‍⬛🐥🐚🐈</p>
+
    
 <!--- Linhuagens de programaçãp e modelagem & Ferramentas --->
-<h3>Tools</h3>
+### Skills
 <ul>
    <!--- Linhuagens de programação --->
    <li>
@@ -30,28 +28,20 @@
    </li>
 </ul>
 
-<h3>Languages</h3> 
-<ul>
-   <li>Portuguese - Native,</li>
-   <li>English - Advanced,</li>
-   <li>Spanish - Basic </li>
-</ul>
+### Languages
+- Native Brazil **Portuguese**
+- Advanced **English**
+- Basic **Spanish**
 
 <!--- Formas de contato --->
-<h4 align="right">How to reach me </h4>
-<p align="right">
-   <a href="mailto:leticiapaulinoferreira@gmail.com" target="blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25"/>
-   </a>
-
-   <a href="https://instagram.com/__leticia__27" target="blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="25"/>
-   </a> 
-</p>
-<hr>
+## How to reach me 
+- [`GMAIL`](mailto:leticiapaulinoferreira@gmail.com)
+- [`LINKEDIN`](https://www.linkedin.com/in/let%C3%ADcia-paulino-ferreira-94a126276/)
 
 
-> “No matter what anybody tells you, words and ideas can change the world.” — John Keating, Dead Poet’s Society
+
+*“No matter what anybody tells you, words and ideas can change the world.”*<br>
+-- John Keating, Dead Poet’s Society
 
 <!-- Parte que ja veio pronta / feita pelo próprio GitHub -->
    
