@@ -24,9 +24,12 @@ Also, I am loyal a cat lover, I enjoy listen to a lot of music and watch movies,
 
 <!---Ferramentas --->
 <p>
-       <img src="https://img.icons8.com/fluent/48/4a90e2/github.png" height="25" alt="GitHub" />
-       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="25" alt="Git" />
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="25" alt="VScode" />
+   <img src="./icons/ferramentas/github.svg" height="30" alt="GitHub" />
+   <img src="./icons/ferramentas/Visual_Studio_Code_1.35_icon.svg.png" height="25" alt="VScode" />
+   <img src="./icons/ferramentas/icons8-git.svg" height="30" alt="Git" />
+   <img src="./icons/ferramentas/icons8-autocad.svg" height="30" alt="AutoCAD" />
+   <img src="./icons/ferramentas/discord.svg" height="30" alt="Discord" />
+   <img src="./icons/ferramentas/apache_spark_logo_icon_170561.svg" height="30" alt="Spark" />
 </p>
 
 ### Languages
