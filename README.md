@@ -8,24 +8,26 @@ I'm a bachelor student of **Computer Science** at **Universidade Federal de São
 Also, I am loyal a cat lover, I enjoy listen to a lot of music and watch movies, but still seeking a real hobbie to be more entertained by this life and the world!
 
    
-<!--- Linhuagens de programaçãp e modelagem & Ferramentas --->
+<!--- Linguagens de programaçãp e modelagem & Ferramentas --->
 ### Skills
-<ul>
-   <!--- Linhuagens de programação --->
-   <li>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="25" alt="C" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="25" alt="Java" />
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" height="25" alt="HTML" />
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" height="25" alt="CSS" />
-   </li>
+<!--- Linguagens de programação --->
+<p>
+   <img src="./icons/linguagens/icons8-c.svg" height="30" alt="C" />
+   <img src="./icons/linguagens/java.svg" height="30" alt="Java" />
+   <img src="./icons/linguagens/icons8-html-48.png" height="30" alt="HTML" />
+   <img src="./icons/linguagens/icons8-css-26.png" height="30" alt="CSS" />
+   <img src="./icons/linguagens/icons8-javascript-48.png" height="30" alt="JavaScript" />
+   <img src="./icons/linguagens/icons8-php-50.png" height="30" alt="PHP" />
+   <img src="./icons/linguagens/icons8-postgreesql-48.png" height="30" alt="SQL" />
+   <img src="./icons/linguagens/python.svg" height="30" alt="Python" />
+</p>
 
-   <!---Ferramentas --->
-   <li>
+<!---Ferramentas --->
+<p>
        <img src="https://img.icons8.com/fluent/48/4a90e2/github.png" height="25" alt="GitHub" />
        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="25" alt="Git" />
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="25" alt="VScode" />
-   </li>
-</ul>
+</p>
 
 ### Languages
 - Native Brazil **Portuguese**
@@ -34,10 +36,15 @@ Also, I am loyal a cat lover, I enjoy listen to a lot of music and watch movies,
 
 <!--- Formas de contato --->
 ### How to reach me 
-- [`GMAIL`](mailto:leticiapaulinoferreira@gmail.com)
-- [`LINKEDIN`](https://www.linkedin.com/in/let%C3%ADcia-paulino-ferreira-94a126276/)
+<p>
+   <a href="mailto:leticiapaulinoferreira@gmail.com">
+      <img src="./icons/contato/icons8-gmail-100.png" height="30" alt="Gmail"/>
+   </a>
+   <a href="https://www.linkedin.com/in/let%C3%ADcia-paulino-ferreira-94a126276/">
+      <img src="./icons/contato/linkedin.svg" height="30" alt="Linkedin"/>
+   </a>
+</p>
 
-<br>
 
 *“No matter what anybody tells you, words and ideas can change the world.”*
 <br>
