@@ -4,8 +4,8 @@ Welcome to my GitHub page
 
 <!-- Sobre mim / curiosidades -->
 ### About Me
-I'm a bachelor student of **Computer Science** at **Universidade Federal de São Carlos - UFSCar**. I'm into UX/UI Design, Databases and Images in tech .<br>
- Also, a cat lover , I enjoy a listen to a lot of music and watch movies, but still seeking a hobbie to be entertained by life and the world more!
+I'm a bachelor student of **Computer Science** at **Universidade Federal de São Carlos - UFSCar**. I'm into **UX/UI Design**, **Databases** and **Images in tech**.
+Also, I am loyal a cat lover, I enjoy listen to a lot of music and watch movies, but still seeking a real hobbie to be more entertained by this life and the world!
 
    
 <!--- Linhuagens de programaçãp e modelagem & Ferramentas --->
