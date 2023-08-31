@@ -13,22 +13,22 @@ Also, I am loyal a cat lover, I enjoy listening to a lot of music and watching m
 <!--- Linguagens de programaçãp e modelagem --->
 <p>
    <img src="./icons/linguagens/icons8-c.svg" height="30" alt="C" />
-   <img src="./icons/linguagens/java.svg" height="30" alt="Java" />
+   <img src="./icons/linguagens/java-svgrepo-com.svg" height="30" alt="Java" />
    <img src="./icons/linguagens/icons8-html-48.png" height="30" alt="HTML" />
-   <img src="./icons/linguagens/icons8-css-26.png" height="30" alt="CSS" />
+   <img src="./icons/linguagens/css-3-svgrepo-com.svg" height="30" alt="CSS" />
    <img src="./icons/linguagens/icons8-javascript-48.png" height="30" alt="JavaScript" />
-   <img src="./icons/linguagens/icons8-php-50.png" height="30" alt="PHP" />
+   <img src="./icons/linguagens/php-svgrepo-com.svg" height="30" alt="PHP" />
    <img src="./icons/linguagens/icons8-postgreesql-48.png" height="30" alt="SQL" />
-   <img src="./icons/linguagens/python.svg" height="30" alt="Python" />
+   <img src="./icons/linguagens/python-svgrepo-com.svg" height="36" alt="Python" />
 </p>
 
 <!---Ferramentas --->
 <p>
-   <img src="./icons/ferramentas/github.svg" height="30" alt="GitHub" />
+   <img src="./icons/ferramentas/github-svgrepo-com.svg" height="30" alt="GitHub" />
    <img src="./icons/ferramentas/Visual_Studio_Code_1.35_icon.svg.png" height="25" alt="VScode" />
-   <img src="./icons/ferramentas/icons8-git.svg" height="30" alt="Git" />
+   <img src="./icons/ferramentas/git-svgrepo-com.svg" height="30" alt="Git" />
    <img src="./icons/ferramentas/icons8-autocad.svg" height="30" alt="AutoCAD" />
-   <img src="./icons/ferramentas/discord.svg" height="30" alt="Discord" />
+   <img src="./icons/ferramentas/discord-svgrepo-com.svg" height="30" alt="Discord" />
    <img src="./icons/ferramentas/apache_spark_logo_icon_170561.svg" height="30" alt="Spark" />
 </p>
 
@@ -44,7 +44,7 @@ Also, I am loyal a cat lover, I enjoy listening to a lot of music and watching m
       <img src="./icons/contato/icons8-gmail-100.png" height="30" alt="Gmail"/>
    </a>
    <a href="https://www.linkedin.com/in/let%C3%ADcia-paulino-ferreira-94a126276/">
-      <img src="./icons/contato/linkedin.svg" height="30" alt="Linkedin"/>
+      <img src="./icons/contato/linkedin-svgrepo-com.svg" height="30" alt="Linkedin"/>
    </a>
 </p>
 
