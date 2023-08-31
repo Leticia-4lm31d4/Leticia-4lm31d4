@@ -6,7 +6,6 @@ Welcome to my GitHub page
 ### About Me
 I'm a bachelor student of **Computer Science** at **Universidade Federal de São Carlos - UFSCar**. I'm into UX/UI Design, Databases and Images in tech .<br>
  Also, a cat lover , I enjoy a listen to a lot of music and watch movies, but still seeking a hobbie to be entertained by life and the world more!
- <p align='right'>🐈‍⬛🐥🐚🐈</p>
 
    
 <!--- Linhuagens de programaçãp e modelagem & Ferramentas --->
@@ -43,6 +42,9 @@ I'm a bachelor student of **Computer Science** at **Universidade Federal de São
 *“No matter what anybody tells you, words and ideas can change the world.”*
 <br>
 -- John Keating, Dead Poet’s Society
+<p align='right'>🐈‍⬛🐥🐚🐈</p>
+
+
 
 <!-- Parte que ja veio pronta / feita pelo próprio GitHub -->
    
