@@ -9,9 +9,8 @@ I'm a bachelor student of **Computer Science** at **Universidade Federal de São
 Also, I am loyal a cat lover, I enjoy listening to a lot of music and watching movies, but still seeking a real hobbie to be more entertained by this life and the world!
 
    
-<!--- Linguagens de programaçãp e modelagem & Ferramentas --->
 ### Skills
-<!--- Linguagens de programação --->
+<!--- Linguagens de programaçãp e modelagem --->
 <p>
    <img src="./icons/linguagens/icons8-c.svg" height="30" alt="C" />
    <img src="./icons/linguagens/java.svg" height="30" alt="Java" />
@@ -38,7 +37,7 @@ Also, I am loyal a cat lover, I enjoy listening to a lot of music and watching m
 - Advanced **English**
 - Basic **Spanish**
 
-<!--- Formas de contato --->
+
 ### How to reach me 
 <p>
    <a href="mailto:leticiapaulinoferreira@gmail.com">
