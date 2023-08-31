@@ -1,7 +1,6 @@
 <!-- Apresentação da página -->
 # Hello, I'm Letícia Paulino Ferreira
-Welcome to my GitHub page 
-<img src="./icons/icons8-café-para-viagem-48.png" height="20" alt="C" />
+Welcome to my GitHub page <img src="./icons/icons8-café-48.png height="20" alt="C" /> 
 
 <!-- Sobre mim / curiosidades -->
 ### About Me
