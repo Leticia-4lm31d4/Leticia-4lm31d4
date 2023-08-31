@@ -1,11 +1,12 @@
 <!-- Apresentação da página -->
 # Hello, I'm Letícia Paulino Ferreira
 Welcome to my GitHub page 
+<img src="./icons/icons8-café-para-viagem-48.png" height="20" alt="C" />
 
 <!-- Sobre mim / curiosidades -->
 ### About Me
 I'm a bachelor student of **Computer Science** at **Universidade Federal de São Carlos - UFSCar**. I'm into **UX/UI Design**, **Databases** and **Images in tech**.
-Also, I am loyal a cat lover, I enjoy listen to a lot of music and watch movies, but still seeking a real hobbie to be more entertained by this life and the world!
+Also, I am loyal a cat lover, I enjoy listening to a lot of music and watching movies, but still seeking a real hobbie to be more entertained by this life and the world!
 
    
 <!--- Linguagens de programaçãp e modelagem & Ferramentas --->
