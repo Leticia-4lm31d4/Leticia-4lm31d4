@@ -1,7 +1,6 @@
 <!-- Apresentação da página -->
 # Hello, I'm Letícia Paulino Ferreira
-Welcome to my GitHub page 
-<img src="./icons/coffee-svgrepo-com.svg" height="20" alt="Cafe" />
+Welcome to my GitHub page ☕!
 
 <!-- Sobre mim / curiosidades -->
 ### About Me
