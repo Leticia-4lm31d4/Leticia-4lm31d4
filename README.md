@@ -1,12 +1,12 @@
 <!-- Apresentação da página -->
 # Hello, I'm Letícia Paulino Ferreira
 Welcome to my GitHub page 
-<img src="./icons/icons8-café-48.png" height="20" alt="C" />
+<img src="./icons/coffee-svgrepo-com.svg" height="20" alt="Cafe" />
 
 <!-- Sobre mim / curiosidades -->
 ### About Me
 I'm a bachelor student of **Computer Science** at **Universidade Federal de São Carlos - UFSCar**. I'm into **UX/UI Design**, **Databases** and **Images in tech**.
-Also, I am a loyal cat lover, I enjoy listening to a lot of music and watching movies, but still seeking a real hobbie to be more entertained by this life and the world!
+Also, I am a loyal cat lover, I enjoy listening to a lot of music, watching movies and sports, but still seeking a hobbie to be more entertained by this life and the world!
 
    
 ### Skills
@@ -37,7 +37,7 @@ Also, I am a loyal cat lover, I enjoy listening to a lot of music and watching m
 </p>
 
 ### Languages
-- Native Brazil **Portuguese**
+- Native Brazilian **Portuguese**
 - Advanced **English**
 - Basic **Spanish**
 
@@ -45,7 +45,7 @@ Also, I am a loyal cat lover, I enjoy listening to a lot of music and watching m
 ### How to reach me 
 <p>
    <a href="mailto:leticiapaulinoferreira@gmail.com" target="blank">
-      <img src="./icons/contato/icons8-gmail-100.png" height="30" alt="Gmail"/>
+      <img src="./icons/contato/gmail-svgrepo-com.svg" height="30" alt="Gmail"/>
    </a>
    <a href="https://www.linkedin.com/in/let%C3%ADcia-paulino-ferreira-94a126276/" target="blank">
       <img src="./icons/contato/linkedin-svgrepo-com.svg" height="30" alt="Linkedin"/>
