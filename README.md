@@ -14,12 +14,13 @@ Also, I am a loyal cat lover, I enjoy listening to a lot of music and watching m
 <p>
    <img src="./icons/linguagens/icons8-c.svg" height="30" alt="C" />
    <img src="./icons/linguagens/java-svgrepo-com.svg" height="30" alt="Java" />
-   <img src="./icons/linguagens/icons8-html-48.png" height="30" alt="HTML" />
+   <img src="./icons/linguagens/html-5-svgrepo-com.svg" height="30" alt="HTML" />
    <img src="./icons/linguagens/css-3-svgrepo-com.svg" height="30" alt="CSS" />
    <img src="./icons/linguagens/icons8-javascript-48.png" height="30" alt="JavaScript" />
    <img src="./icons/linguagens/php-svgrepo-com.svg" height="30" alt="PHP" />
    <img src="./icons/linguagens/icons8-postgreesql-48.png" height="30" alt="SQL" />
-   <img src="./icons/linguagens/python-svgrepo-com.svg" height="36" alt="Python" />
+   <img src="./icons/linguagens/python-svgrepo-com.svg" height="40" alt="Python" />
+   <img src="./icons/linguagens/cpp-svgrepo-com.svg" height="30" alt="C++" />
 </p>
 
 <!---Ferramentas --->
@@ -30,6 +31,9 @@ Also, I am a loyal cat lover, I enjoy listening to a lot of music and watching m
    <img src="./icons/ferramentas/icons8-autocad.svg" height="30" alt="AutoCAD" />
    <img src="./icons/ferramentas/discord-svgrepo-com.svg" height="30" alt="Discord" />
    <img src="./icons/ferramentas/apache_spark_logo_icon_170561.svg" height="30" alt="Spark" />
+   <img src="./icons/ferramentas/figma-svgrepo-com.svg" height="25" alt="Figma" />
+   <img src="./icons/ferramentas/linux-svgrepo-com.svg" height="30" alt="Linux" />
+   <img src="./icons/ferramentas/windows-applications-svgrepo-com.svg" height="25" alt="windows" />
 </p>
 
 ### Languages
@@ -40,10 +44,10 @@ Also, I am a loyal cat lover, I enjoy listening to a lot of music and watching m
 
 ### How to reach me 
 <p>
-   <a href="mailto:leticiapaulinoferreira@gmail.com">
+   <a href="mailto:leticiapaulinoferreira@gmail.com" target="blank">
       <img src="./icons/contato/icons8-gmail-100.png" height="30" alt="Gmail"/>
    </a>
-   <a href="https://www.linkedin.com/in/let%C3%ADcia-paulino-ferreira-94a126276/">
+   <a href="https://www.linkedin.com/in/let%C3%ADcia-paulino-ferreira-94a126276/" target="blank">
       <img src="./icons/contato/linkedin-svgrepo-com.svg" height="30" alt="Linkedin"/>
    </a>
 </p>
