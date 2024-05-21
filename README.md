@@ -1,5 +1,7 @@
 <!-- Apresentação da página -->
 # Hello, I'm Letícia Paulino Ferreira
+>she / hers
+
 Welcome to my GitHub page
 
 <img src="./icons/R.gif" style="width: 100%;" alt="cozy" />
@@ -56,7 +58,6 @@ Also, I am a loyal cat lover, I enjoy listening to a lot of music, watching movi
 
 
 *“No matter what anybody tells you, words and ideas can change the world.”*
-<br>
 -- John Keating, Dead Poet’s Society
 
 
