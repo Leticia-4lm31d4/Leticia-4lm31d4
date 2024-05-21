@@ -1,8 +1,8 @@
 <!-- Apresentação da página -->
 # Hello, I'm Letícia Paulino Ferreira
 >she / hers
->
-Welcome to my GitHub page
+
+Welcome to my GitHub page :tent:
 
 <img src="./icons/R.gif" style="width: 100%;" alt="cozy" />
 
