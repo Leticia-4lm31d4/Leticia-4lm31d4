@@ -1,6 +1,8 @@
 <!-- Apresentação da página -->
 # Hello, I'm Letícia Paulino Ferreira
-Welcome to my GitHub page ☕!
+Welcome to my GitHub page 
+
+<img src="./icons/R.gif" height="" alt="C" />
 
 <!-- Sobre mim / curiosidades -->
 ### About Me
