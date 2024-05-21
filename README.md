@@ -2,14 +2,7 @@
 # Hello, I'm Letícia Paulino Ferreira
 Welcome to my GitHub page
 
-<img src="./icons/R.gif" class="full-width-image" alt="cozy" />
-
-<style>
-   .full-width-image {
-      width: 100%;
-      height: auto;
-   }
-</style>
+<img src="./icons/R.gif" style="width: 100%;" alt="cozy" />
 
 <!-- Sobre mim / curiosidades -->
 ### About Me
