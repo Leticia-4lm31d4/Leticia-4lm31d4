@@ -1,8 +1,15 @@
 <!-- Apresentação da página -->
 # Hello, I'm Letícia Paulino Ferreira
-Welcome to my GitHub page 
+Welcome to my GitHub page
 
-<img src="./icons/R.gif" height="" alt="C" />
+<img src="./icons/R.gif" class="full-width-image" alt="cozy" />
+
+<style>
+   .full-width-image {
+      width: 100%;
+      height: auto;
+   }
+</style>
 
 <!-- Sobre mim / curiosidades -->
 ### About Me
@@ -34,7 +41,7 @@ Also, I am a loyal cat lover, I enjoy listening to a lot of music, watching movi
    <img src="./icons/ferramentas/apache_spark_logo_icon_170561.svg" height="30" alt="Spark" />
    <img src="./icons/ferramentas/figma-svgrepo-com.svg" height="25" alt="Figma" />
    <img src="./icons/ferramentas/linux-svgrepo-com.svg" height="30" alt="Linux" />
-   <img src="./icons/ferramentas/windows-applications-svgrepo-com.svg" height="25" alt="windows" />
+   <img src="./icons/ferramentas/microsoft-svgrepo-com.svg" height="32" alt="windows" />
 </p>
 
 ### Languages
@@ -48,7 +55,6 @@ Also, I am a loyal cat lover, I enjoy listening to a lot of music, watching movi
    <a href="mailto:leticiapaulinoferreira@gmail.com" target="blank">
       <img src="./icons/contato/gmail-svgrepo-com.svg" height="30" alt="Gmail"/>
    </a>
-   
    <a href="https://www.linkedin.com/in/let%C3%ADcia-paulino-ferreira-94a126276/" target="blank">
       <img src="./icons/contato/linkedin-svgrepo-com.svg" height="30" alt="Linkedin"/>
    </a>
