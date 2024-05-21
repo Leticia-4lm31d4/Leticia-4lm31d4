@@ -46,6 +46,7 @@ Also, I am a loyal cat lover, I enjoy listening to a lot of music, watching movi
    <a href="mailto:leticiapaulinoferreira@gmail.com" target="blank">
       <img src="./icons/contato/gmail-svgrepo-com.svg" height="30" alt="Gmail"/>
    </a>
+   
    <a href="https://www.linkedin.com/in/let%C3%ADcia-paulino-ferreira-94a126276/" target="blank">
       <img src="./icons/contato/linkedin-svgrepo-com.svg" height="30" alt="Linkedin"/>
    </a>
