@@ -22,7 +22,7 @@ Also, I am a loyal cat lover, I enjoy listening to a lot of music, watching movi
    <img src="./icons/linguagens/icons8-postgreesql-48.png" height="30" alt="SQL" />
    <img src="./icons/linguagens/python-svgrepo-com.svg" height="40" alt="Python" />
    <img src="./icons/linguagens/cpp-svgrepo-com.svg" height="30" alt="C++" />
-   <img src="./icons/linguagens/mysql-logo-svgrepo-com.svg" height="40" alt="MySQL" />
+   <img src="./icons/linguagens/mysql-logo-svgrepo-com.svg" height="50" alt="MySQL" />
 </p>
 
 <!---Ferramentas --->
