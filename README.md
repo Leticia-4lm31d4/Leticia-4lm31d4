@@ -1,6 +1,6 @@
 <!-- Apresentação da página -->
 # Hello, I'm Letícia Paulino Ferreira
->she / hers
+>she / her
 
 Welcome to my GitHub page :tent:
 
