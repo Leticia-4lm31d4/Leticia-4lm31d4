@@ -8,10 +8,11 @@ Welcome to my GitHub page :tent:
 
 <!-- Sobre mim / curiosidades -->
 ### About Me
-I'm a bachelor student of **Computer Science** at **Universidade Federal de São Carlos - UFSCar**. I'm into **UX/UI Design**, **Databases** and **Images in tech**.
+<p  align="left" style="width: 70%;">
+I'm a bachelor student of <strong>Computer Science</strong> at <strong>Universidade Federal de São Carlos - UFSCar</strong>. I'm into <strong>UX/UI Design</strong>, <strong>Databases</strong> and <strong>Images in tech</strong>. 
 Also, I am a loyal cat lover, I enjoy listening to a lot of music, watching movies and sports, but still seeking a hobbie to be more entertained by this life and the world!
+</p>
 
-   
 ### Skills
 <!--- Linguagens de programaçãp e modelagem --->
 <p>
