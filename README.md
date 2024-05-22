@@ -4,7 +4,7 @@
 
 Welcome to my GitHub page :tent:
 
-<img src="./icons/R.gif" align="right" style="width: 80%;" alt="cozy" />
+<img src="./icons/R.gif" align="right" style="width: 70%;" alt="cozy" />
 
 <!-- Sobre mim / curiosidades -->
 ### About Me
