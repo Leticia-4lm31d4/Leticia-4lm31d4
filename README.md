@@ -9,8 +9,9 @@ Welcome to my GitHub page :tent:
    <!-- Sobre mim / curiosidades -->
  ### About Me
 <p>
-   I'm a student of <strong>Computer Science</strong> at <strong>Universidade Federal de São Carlos</strong> (UFSCar). I'm into <strong>UX</strong>, <strong>Databases</strong> and <strong>Images in tech</strong>. 
-   Also, I am a loyal cat lover, I enjoy listening to a lot of music, watching movies and sports, but still seeking a hobbie to be more entertained by this life and the world!
+   Computer Science @ São Carlos Federal University. <br>
+   Passionate to learn, I've been focusing on data and software engineering, currently studying data science. <br>
+   Also, enjoy spending my time with music 🎼 and Formula 1 🏎️.
 </p>
 
 ### Skills
