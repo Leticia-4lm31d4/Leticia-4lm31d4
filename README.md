@@ -6,12 +6,12 @@ Welcome to my GitHub page :tent:
 
 <img src="./icons/R.gif"  style="width: 70%;" alt="cozy" />
    
-   <!-- Sobre mim / curiosidades -->
+<!-- Sobre mim / curiosidades -->
  ### About Me
 <p>
    Computer Science @ São Carlos Federal University. <br>
-   Passionate to learn, I've been focusing on data and software engineering, currently studying data science. <br>
-   Also, enjoy spending my time with music 🎼 and Formula 1 🏎️.
+   Passionate about learning, I'm currently focused on exploring cybersecurity and developing my skills in the field. 🔐 <br>
+   Outside of tech, I enjoy music 🎼 and collecting Grass-type Pokémon cards! 🍃
 </p>
 
 ### Skills
@@ -46,6 +46,7 @@ Welcome to my GitHub page :tent:
 - Native Brazilian **Portuguese**
 - Advanced **English**
 - Basic **Spanish**
+- Basic **Italian**
 
 
 ### How to reach me 
